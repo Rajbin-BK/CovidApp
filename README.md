@@ -1,12 +1,16 @@
 COVID-19 Assistant App
+
 Description
 COVID-19 Assistant is a comprehensive mobile application developed using MIT App Inventor, designed to provide real-time COVID-19 related information and resources. This app aims to help users stay informed about COVID-19 symptoms, precautions, and updates the nearest COVID-19 testing locations based on the user's live location.
 
 Features
+
 Live Location Tracking: Enables the app to provide location-based services and information.
 Symptoms Guide: A detailed list and description of COVID-19 symptoms to help users self-assess before opting for a test.
 Precautions: Provides up-to-date information on how to prevent the spread of the coronavirus, recommended by health authorities.
 Nearest Testing Locations: Using the live location data, the app pins the nearest COVID-19 testing locations on a map for easy access.
+
+
 Installation
 To install the COVID-19 Assistant App, follow these steps:
 
