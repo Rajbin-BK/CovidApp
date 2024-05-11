@@ -38,6 +38,7 @@ Distributed under the MIT License. See LICENSE for more information.
 
 Contact
 Your Name – rajbincad077@gmail.com
+
 Project Link: https://github.com/Rajbin-BK/CovidApp.git
 
 
